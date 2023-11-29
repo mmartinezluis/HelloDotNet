@@ -1,0 +1,14 @@
+/Users/luismartinez/hello-dotnet/bin/Debug/net7.0/hello-dotnet
+/Users/luismartinez/hello-dotnet/bin/Debug/net7.0/hello-dotnet.deps.json
+/Users/luismartinez/hello-dotnet/bin/Debug/net7.0/hello-dotnet.runtimeconfig.json
+/Users/luismartinez/hello-dotnet/bin/Debug/net7.0/hello-dotnet.dll
+/Users/luismartinez/hello-dotnet/bin/Debug/net7.0/hello-dotnet.pdb
+/Users/luismartinez/hello-dotnet/obj/Debug/net7.0/hello-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luismartinez/hello-dotnet/obj/Debug/net7.0/hello-dotnet.AssemblyInfoInputs.cache
+/Users/luismartinez/hello-dotnet/obj/Debug/net7.0/hello-dotnet.AssemblyInfo.cs
+/Users/luismartinez/hello-dotnet/obj/Debug/net7.0/hello-dotnet.csproj.CoreCompileInputs.cache
+/Users/luismartinez/hello-dotnet/obj/Debug/net7.0/hello-dotnet.dll
+/Users/luismartinez/hello-dotnet/obj/Debug/net7.0/refint/hello-dotnet.dll
+/Users/luismartinez/hello-dotnet/obj/Debug/net7.0/hello-dotnet.pdb
+/Users/luismartinez/hello-dotnet/obj/Debug/net7.0/hello-dotnet.genruntimeconfig.cache
+/Users/luismartinez/hello-dotnet/obj/Debug/net7.0/ref/hello-dotnet.dll
