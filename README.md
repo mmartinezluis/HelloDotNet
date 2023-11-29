@@ -1,3 +1,3 @@
 # README
 
-## Learning C# (c 'sharp')
+## Learning C# (C 'sharp')

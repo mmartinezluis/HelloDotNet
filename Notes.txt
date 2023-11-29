@@ -1,0 +1,16 @@
+int -> -2 billion < x < +2 billion
+
+OVERFLOW (add "checked" keyword to throw an exception if overflow occurs)
+
+  checked
+  {
+    byte number = 255;
+
+    number = number + 1;
+  }
+
+
+  SCOPE
+
+  TYPE CONVERSION AND CASTING
+  
