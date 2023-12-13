@@ -1,0 +1,14 @@
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/bin/Debug/net7.0/Conditionals
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/bin/Debug/net7.0/Conditionals.deps.json
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/bin/Debug/net7.0/Conditionals.runtimeconfig.json
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/bin/Debug/net7.0/Conditionals.dll
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/bin/Debug/net7.0/Conditionals.pdb
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/obj/Debug/net7.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfoInputs.cache
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfo.cs
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/obj/Debug/net7.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/obj/Debug/net7.0/Conditionals.dll
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/obj/Debug/net7.0/refint/Conditionals.dll
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/obj/Debug/net7.0/Conditionals.pdb
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/obj/Debug/net7.0/Conditionals.genruntimeconfig.cache
+/Users/luismartinez/hello-dotnet/Exercises/Conditionals/obj/Debug/net7.0/ref/Conditionals.dll
