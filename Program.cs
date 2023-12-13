@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Conditionals;
+// See https://aka.ms/new-console-template for more information
 // Console.WriteLine("Hello, World!");
 
 // ***********************************
@@ -50,3 +51,49 @@ john.Introduce();
 
 var result = Calculator.Add(1, 2);
 System.Console.WriteLine(result);
+
+
+// ARRAYS
+int[] numbers = new int[3] { 1,2,3 };
+
+// -----------------------------------------
+int hour = 10;
+
+if(hour > 0 && hour < 12)
+{
+  Console.WriteLine("It's morning.");
+}
+else if(hour >- 12 && hour < 18)
+{
+  Console.WriteLine("It's afternoon.");
+}
+else 
+{
+  Console.WriteLine("It's evening.");
+}
+
+bool isGoldCustomer = true;
+
+float price = (isGoldCustomer) ? 19.95f : 29.95f;
+
+Console.WriteLine(price);
+
+
+
+// ----------------------------------------
+  var season = Season.Autumn;
+
+  switch (season)
+  {
+    case Season.Autumn:
+      Console.WriteLine("It's autumn and a beautiful season.");
+      break;
+
+    case Season.Summer:
+      Console.WriteLine("Ti's perfect to go to beach");
+      break;
+
+    default:
+      Console.WriteLine("I don't understand that season");
+      break;
+  }
